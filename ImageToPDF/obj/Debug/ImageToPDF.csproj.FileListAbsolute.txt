@@ -1,0 +1,12 @@
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\bin\Debug\ImageToPDF.exe.config
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\bin\Debug\ImageToPDF.exe
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\bin\Debug\ImageToPDF.pdb
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\bin\Debug\itextsharp.dll
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\bin\Debug\itextsharp.xml
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\obj\Debug\ImageToPDF.csproj.AssemblyReference.cache
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\obj\Debug\ImageToPDF.csproj.SuggestedBindingRedirects.cache
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\obj\Debug\ImageToPDF.csproj.CoreCompileInputs.cache
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\obj\Debug\ImageToPDF.csproj.CopyComplete
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\obj\Debug\ImageToPDF.exe
+C:\Users\kn0ws\source\repos\ImageToPDF\ImageToPDF\obj\Debug\ImageToPDF.pdb

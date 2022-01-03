@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34f97bde-0803-4d18-ae06-5f121641472f": {
+      "ProjectGuid": "34f97bde-0803-4d18-ae06-5f121641472f",
+      "DisplayName": "ImageToPDF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
