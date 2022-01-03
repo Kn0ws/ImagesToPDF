@@ -5,7 +5,12 @@
       "ProjectGuid": "34f97bde-0803-4d18-ae06-5f121641472f",
       "DisplayName": "ImageToPDF",
       "ColorIndex": 0
+    },
+    "d88007d7-3f10-43f2-8070-ce3f88695148": {
+      "ProjectGuid": "d88007d7-3f10-43f2-8070-ce3f88695148",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
